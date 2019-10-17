@@ -1,0 +1,26 @@
+
+http://192.168.2.250:3000/car
+
+
+汽车照片：
+http://192.168.2.250:3000/images/carimages_small/1000001/view/5a431eee712a1916040_20.jpg
+
+
+列定义：
+[
+	{'title': '图片', 'key':'image' , 'dataIndex': 'image'},
+	{'title': '编号', 'key':'id' , 'dataIndex': 'id'},
+	{'title': '品牌', 'key':'brand' , 'dataIndex': 'brand'},
+	{'title': '车系', 'key':'series' , 'dataIndex': 'series'},
+	{'title': '颜色', 'key':'color' , 'dataIndex': 'color'},
+	{'title': '发动机', 'key':'engine' , 'dataIndex': 'engine'},
+	{'title': '尾气', 'key':'exhaust' , 'dataIndex': 'exhaust'},
+	{'title': '燃料', 'key':'fuel' , 'dataIndex': 'fuel'}
+]
+
+颜色：color
+['红', '黄', '蓝', '黑', '白', '绿', '灰']
+燃料：fuel
+['油电混合', '纯电动', '柴油', '汽油']
+尾气：exhaust
+['国一', '国二', '国三', '国四']

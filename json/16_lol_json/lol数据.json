@@ -1,0 +1,2306 @@
+{
+    "Aatrox": {
+        "id": "Aatrox",
+        "key": "266",
+        "name": "暗裔剑魔",
+        "title": "亚托克斯",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Aatrox.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Ahri": {
+        "id": "Ahri",
+        "key": "103",
+        "name": "九尾妖狐",
+        "title": "阿狸",
+        "tags": ["Mage", "Assassin"],
+        "image": {
+            "full": "Ahri.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 48,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Akali": {
+        "id": "Akali",
+        "key": "84",
+        "name": "离群之刺",
+        "title": "阿卡丽",
+        "tags": ["Assassin"],
+        "image": {
+            "full": "Akali.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 96,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Alistar": {
+        "id": "Alistar",
+        "key": "12",
+        "name": "牛头酋长",
+        "title": "阿利斯塔",
+        "tags": ["Tank", "Support"],
+        "image": {
+            "full": "Alistar.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 144,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Amumu": {
+        "id": "Amumu",
+        "key": "32",
+        "name": "殇之木乃伊",
+        "title": "阿木木",
+        "tags": ["Tank", "Mage"],
+        "image": {
+            "full": "Amumu.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 192,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Anivia": {
+        "id": "Anivia",
+        "key": "34",
+        "name": "冰晶凤凰",
+        "title": "艾尼维亚",
+        "tags": ["Mage", "Support"],
+        "image": {
+            "full": "Anivia.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 240,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Annie": {
+        "id": "Annie",
+        "key": "1",
+        "name": "黑暗之女",
+        "title": "安妮",
+        "tags": ["Mage"],
+        "image": {
+            "full": "Annie.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 288,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Ashe": {
+        "id": "Ashe",
+        "key": "22",
+        "name": "寒冰射手",
+        "title": "艾希",
+        "tags": ["Marksman", "Support"],
+        "image": {
+            "full": "Ashe.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 336,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "AurelionSol": {
+        "id": "AurelionSol",
+        "key": "136",
+        "name": "铸星龙王",
+        "title": "奥瑞利安·索尔",
+        "tags": ["Mage"],
+        "image": {
+            "full": "AurelionSol.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 384,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Azir": {
+        "id": "Azir",
+        "key": "268",
+        "name": "沙漠皇帝",
+        "title": "阿兹尔",
+        "tags": ["Mage", "Marksman"],
+        "image": {
+            "full": "Azir.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 432,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Bard": {
+        "id": "Bard",
+        "key": "432",
+        "name": "星界游神",
+        "title": "巴德",
+        "tags": ["Support", "Mage"],
+        "image": {
+            "full": "Bard.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 0,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Blitzcrank": {
+        "id": "Blitzcrank",
+        "key": "53",
+        "name": "蒸汽机器人",
+        "title": "布里茨",
+        "tags": ["Tank", "Fighter"],
+        "image": {
+            "full": "Blitzcrank.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 48,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Brand": {
+        "id": "Brand",
+        "key": "63",
+        "name": "复仇焰魂",
+        "title": "布兰德",
+        "tags": ["Mage"],
+        "image": {
+            "full": "Brand.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 96,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Braum": {
+        "id": "Braum",
+        "key": "201",
+        "name": "弗雷尔卓德之心",
+        "title": "布隆",
+        "tags": ["Support", "Tank"],
+        "image": {
+            "full": "Braum.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 144,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Caitlyn": {
+        "id": "Caitlyn",
+        "key": "51",
+        "name": "皮城女警",
+        "title": "凯特琳",
+        "tags": ["Marksman"],
+        "image": {
+            "full": "Caitlyn.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 192,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Camille": {
+        "id": "Camille",
+        "key": "164",
+        "name": "青钢影",
+        "title": "卡蜜尔",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Camille.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 240,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Cassiopeia": {
+        "id": "Cassiopeia",
+        "key": "69",
+        "name": "魔蛇之拥",
+        "title": "卡西奥佩娅",
+        "tags": ["Mage"],
+        "image": {
+            "full": "Cassiopeia.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 288,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Chogath": {
+        "id": "Chogath",
+        "key": "31",
+        "name": "虚空恐惧",
+        "title": "科加斯",
+        "tags": ["Tank", "Mage"],
+        "image": {
+            "full": "Chogath.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 336,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Corki": {
+        "id": "Corki",
+        "key": "42",
+        "name": "英勇投弹手",
+        "title": "库奇",
+        "tags": ["Marksman"],
+        "image": {
+            "full": "Corki.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 384,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Darius": {
+        "id": "Darius",
+        "key": "122",
+        "name": "诺克萨斯之手",
+        "title": "德莱厄斯",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Darius.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 432,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Diana": {
+        "id": "Diana",
+        "key": "131",
+        "name": "皎月女神",
+        "title": "黛安娜",
+        "tags": ["Fighter", "Mage"],
+        "image": {
+            "full": "Diana.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 0,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Draven": {
+        "id": "Draven",
+        "key": "119",
+        "name": "荣耀行刑官",
+        "title": "德莱文",
+        "tags": ["Marksman"],
+        "image": {
+            "full": "Draven.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 48,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "DrMundo": {
+        "id": "DrMundo",
+        "key": "36",
+        "name": "祖安狂人",
+        "title": "蒙多医生",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "DrMundo.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 96,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Ekko": {
+        "id": "Ekko",
+        "key": "245",
+        "name": "时间刺客",
+        "title": "艾克",
+        "tags": ["Assassin", "Fighter"],
+        "image": {
+            "full": "Ekko.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 144,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Elise": {
+        "id": "Elise",
+        "key": "60",
+        "name": "蜘蛛女皇",
+        "title": "伊莉丝",
+        "tags": ["Mage", "Fighter"],
+        "image": {
+            "full": "Elise.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 192,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Evelynn": {
+        "id": "Evelynn",
+        "key": "28",
+        "name": "痛苦之拥",
+        "title": "伊芙琳",
+        "tags": ["Assassin", "Mage"],
+        "image": {
+            "full": "Evelynn.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 240,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Ezreal": {
+        "id": "Ezreal",
+        "key": "81",
+        "name": "探险家",
+        "title": "伊泽瑞尔",
+        "tags": ["Marksman", "Mage"],
+        "image": {
+            "full": "Ezreal.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 288,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Fiddlesticks": {
+        "id": "Fiddlesticks",
+        "key": "9",
+        "name": "末日使者",
+        "title": "费德提克",
+        "tags": ["Mage", "Support"],
+        "image": {
+            "full": "Fiddlesticks.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 336,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Fiora": {
+        "id": "Fiora",
+        "key": "114",
+        "name": "无双剑姬",
+        "title": "菲奥娜",
+        "tags": ["Fighter", "Assassin"],
+        "image": {
+            "full": "Fiora.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 384,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Fizz": {
+        "id": "Fizz",
+        "key": "105",
+        "name": "潮汐海灵",
+        "title": "菲兹",
+        "tags": ["Assassin", "Fighter"],
+        "image": {
+            "full": "Fizz.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 432,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Galio": {
+        "id": "Galio",
+        "key": "3",
+        "name": "正义巨像",
+        "title": "加里奥",
+        "tags": ["Tank", "Mage"],
+        "image": {
+            "full": "Galio.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Gangplank": {
+        "id": "Gangplank",
+        "key": "41",
+        "name": "海洋之灾",
+        "title": "普朗克",
+        "tags": ["Fighter"],
+        "image": {
+            "full": "Gangplank.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 48,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Garen": {
+        "id": "Garen",
+        "key": "86",
+        "name": "德玛西亚之力",
+        "title": "盖伦",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Garen.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 96,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Gnar": {
+        "id": "Gnar",
+        "key": "150",
+        "name": "迷失之牙",
+        "title": "纳尔",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Gnar.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 144,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Gragas": {
+        "id": "Gragas",
+        "key": "79",
+        "name": "酒桶",
+        "title": "古拉加斯",
+        "tags": ["Fighter", "Mage"],
+        "image": {
+            "full": "Gragas.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 192,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Graves": {
+        "id": "Graves",
+        "key": "104",
+        "name": "法外狂徒",
+        "title": "格雷福斯",
+        "tags": ["Marksman"],
+        "image": {
+            "full": "Graves.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 240,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Hecarim": {
+        "id": "Hecarim",
+        "key": "120",
+        "name": "战争之影",
+        "title": "赫卡里姆",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Hecarim.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 288,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Heimerdinger": {
+        "id": "Heimerdinger",
+        "key": "74",
+        "name": "大发明家",
+        "title": "黑默丁格",
+        "tags": ["Mage", "Support"],
+        "image": {
+            "full": "Heimerdinger.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 336,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Illaoi": {
+        "id": "Illaoi",
+        "key": "420",
+        "name": "海兽祭司",
+        "title": "俄洛伊",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Illaoi.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 384,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Irelia": {
+        "id": "Irelia",
+        "key": "39",
+        "name": "刀锋舞者",
+        "title": "艾瑞莉娅",
+        "tags": ["Fighter", "Assassin"],
+        "image": {
+            "full": "Irelia.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 432,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Ivern": {
+        "id": "Ivern",
+        "key": "427",
+        "name": "翠神",
+        "title": "艾翁",
+        "tags": ["Support", "Mage"],
+        "image": {
+            "full": "Ivern.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 0,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Janna": {
+        "id": "Janna",
+        "key": "40",
+        "name": "风暴之怒",
+        "title": "迦娜",
+        "tags": ["Support", "Mage"],
+        "image": {
+            "full": "Janna.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 48,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "JarvanIV": {
+        "id": "JarvanIV",
+        "key": "59",
+        "name": "德玛西亚皇子",
+        "title": "嘉文四世",
+        "tags": ["Tank", "Fighter"],
+        "image": {
+            "full": "JarvanIV.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 96,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Jax": {
+        "id": "Jax",
+        "key": "24",
+        "name": "武器大师",
+        "title": "贾克斯",
+        "tags": ["Fighter", "Assassin"],
+        "image": {
+            "full": "Jax.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 144,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Jayce": {
+        "id": "Jayce",
+        "key": "126",
+        "name": "未来守护者",
+        "title": "杰斯",
+        "tags": ["Fighter", "Marksman"],
+        "image": {
+            "full": "Jayce.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 192,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Jhin": {
+        "id": "Jhin",
+        "key": "202",
+        "name": "戏命师",
+        "title": "烬",
+        "tags": ["Marksman", "Mage"],
+        "image": {
+            "full": "Jhin.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 240,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Jinx": {
+        "id": "Jinx",
+        "key": "222",
+        "name": "暴走萝莉",
+        "title": "金克丝",
+        "tags": ["Marksman"],
+        "image": {
+            "full": "Jinx.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 288,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Kaisa": {
+        "id": "Kaisa",
+        "key": "145",
+        "name": "虚空之女",
+        "title": "卡莎",
+        "tags": ["Marksman"],
+        "image": {
+            "full": "Kaisa.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 336,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Kalista": {
+        "id": "Kalista",
+        "key": "429",
+        "name": "复仇之矛",
+        "title": "卡莉丝塔",
+        "tags": ["Marksman"],
+        "image": {
+            "full": "Kalista.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 384,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Karma": {
+        "id": "Karma",
+        "key": "43",
+        "name": "天启者",
+        "title": "卡尔玛",
+        "tags": ["Mage", "Support"],
+        "image": {
+            "full": "Karma.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 432,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Karthus": {
+        "id": "Karthus",
+        "key": "30",
+        "name": "死亡颂唱者",
+        "title": "卡尔萨斯",
+        "tags": ["Mage"],
+        "image": {
+            "full": "Karthus.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 0,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Kassadin": {
+        "id": "Kassadin",
+        "key": "38",
+        "name": "虚空行者",
+        "title": "卡萨丁",
+        "tags": ["Assassin", "Mage"],
+        "image": {
+            "full": "Kassadin.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 48,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Katarina": {
+        "id": "Katarina",
+        "key": "55",
+        "name": "不祥之刃",
+        "title": "卡特琳娜",
+        "tags": ["Assassin", "Mage"],
+        "image": {
+            "full": "Katarina.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 96,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Kayle": {
+        "id": "Kayle",
+        "key": "10",
+        "name": "正义天使",
+        "title": "凯尔",
+        "tags": ["Fighter", "Support"],
+        "image": {
+            "full": "Kayle.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 144,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Kayn": {
+        "id": "Kayn",
+        "key": "141",
+        "name": "影流之镰",
+        "title": "凯隐",
+        "tags": ["Fighter", "Assassin"],
+        "image": {
+            "full": "Kayn.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 192,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Kennen": {
+        "id": "Kennen",
+        "key": "85",
+        "name": "狂暴之心",
+        "title": "凯南",
+        "tags": ["Mage", "Marksman"],
+        "image": {
+            "full": "Kennen.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 240,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Khazix": {
+        "id": "Khazix",
+        "key": "121",
+        "name": "虚空掠夺者",
+        "title": "卡兹克",
+        "tags": ["Assassin"],
+        "image": {
+            "full": "Khazix.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 288,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Kindred": {
+        "id": "Kindred",
+        "key": "203",
+        "name": "永猎双子",
+        "title": "千珏",
+        "tags": ["Marksman"],
+        "image": {
+            "full": "Kindred.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 336,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Kled": {
+        "id": "Kled",
+        "key": "240",
+        "name": "暴怒骑士",
+        "title": "克烈",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Kled.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 384,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "KogMaw": {
+        "id": "KogMaw",
+        "key": "96",
+        "name": "深渊巨口",
+        "title": "克格莫",
+        "tags": ["Marksman", "Mage"],
+        "image": {
+            "full": "KogMaw.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 432,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Leblanc": {
+        "id": "Leblanc",
+        "key": "7",
+        "name": "诡术妖姬",
+        "title": "乐芙兰",
+        "tags": ["Assassin", "Mage"],
+        "image": {
+            "full": "Leblanc.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "LeeSin": {
+        "id": "LeeSin",
+        "key": "64",
+        "name": "盲僧",
+        "title": "李青",
+        "tags": ["Fighter", "Assassin"],
+        "image": {
+            "full": "LeeSin.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 48,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Leona": {
+        "id": "Leona",
+        "key": "89",
+        "name": "曙光女神",
+        "title": "蕾欧娜",
+        "tags": ["Tank", "Support"],
+        "image": {
+            "full": "Leona.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 96,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Lissandra": {
+        "id": "Lissandra",
+        "key": "127",
+        "name": "冰霜女巫",
+        "title": "丽桑卓",
+        "tags": ["Mage"],
+        "image": {
+            "full": "Lissandra.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 144,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Lucian": {
+        "id": "Lucian",
+        "key": "236",
+        "name": "圣枪游侠",
+        "title": "卢锡安",
+        "tags": ["Marksman"],
+        "image": {
+            "full": "Lucian.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 192,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Lulu": {
+        "id": "Lulu",
+        "key": "117",
+        "name": "仙灵女巫",
+        "title": "璐璐",
+        "tags": ["Support", "Mage"],
+        "image": {
+            "full": "Lulu.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 240,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Lux": {
+        "id": "Lux",
+        "key": "99",
+        "name": "光辉女郎",
+        "title": "拉克丝",
+        "tags": ["Mage", "Support"],
+        "image": {
+            "full": "Lux.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 288,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Malphite": {
+        "id": "Malphite",
+        "key": "54",
+        "name": "熔岩巨兽",
+        "title": "墨菲特",
+        "tags": ["Tank", "Fighter"],
+        "image": {
+            "full": "Malphite.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 336,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Malzahar": {
+        "id": "Malzahar",
+        "key": "90",
+        "name": "虚空先知",
+        "title": "玛尔扎哈",
+        "tags": ["Mage", "Assassin"],
+        "image": {
+            "full": "Malzahar.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 384,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Maokai": {
+        "id": "Maokai",
+        "key": "57",
+        "name": "扭曲树精",
+        "title": "茂凯",
+        "tags": ["Tank", "Mage"],
+        "image": {
+            "full": "Maokai.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 432,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "MasterYi": {
+        "id": "MasterYi",
+        "key": "11",
+        "name": "无极剑圣",
+        "title": "易",
+        "tags": ["Assassin", "Fighter"],
+        "image": {
+            "full": "MasterYi.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 0,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "MissFortune": {
+        "id": "MissFortune",
+        "key": "21",
+        "name": "赏金猎人",
+        "title": "厄运小姐",
+        "tags": ["Marksman"],
+        "image": {
+            "full": "MissFortune.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 48,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "MonkeyKing": {
+        "id": "MonkeyKing",
+        "key": "62",
+        "name": "齐天大圣",
+        "title": "孙悟空",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "MonkeyKing.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 96,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Mordekaiser": {
+        "id": "Mordekaiser",
+        "key": "82",
+        "name": "铁铠冥魂",
+        "title": "莫德凯撒",
+        "tags": ["Fighter"],
+        "image": {
+            "full": "Mordekaiser.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 144,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Morgana": {
+        "id": "Morgana",
+        "key": "25",
+        "name": "堕落天使",
+        "title": "莫甘娜",
+        "tags": ["Mage", "Support"],
+        "image": {
+            "full": "Morgana.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 192,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Nami": {
+        "id": "Nami",
+        "key": "267",
+        "name": "唤潮鲛姬",
+        "title": "娜美",
+        "tags": ["Support", "Mage"],
+        "image": {
+            "full": "Nami.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 240,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Nasus": {
+        "id": "Nasus",
+        "key": "75",
+        "name": "沙漠死神",
+        "title": "内瑟斯",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Nasus.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 288,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Nautilus": {
+        "id": "Nautilus",
+        "key": "111",
+        "name": "深海泰坦",
+        "title": "诺提勒斯",
+        "tags": ["Tank", "Fighter"],
+        "image": {
+            "full": "Nautilus.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 336,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Neeko": {
+        "id": "Neeko",
+        "key": "518",
+        "name": "万花通灵",
+        "title": "妮蔻",
+        "tags": ["Mage", "Support"],
+        "image": {
+            "full": "Neeko.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 384,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Nidalee": {
+        "id": "Nidalee",
+        "key": "76",
+        "name": "狂野女猎手",
+        "title": "奈德丽",
+        "tags": ["Assassin", "Mage"],
+        "image": {
+            "full": "Nidalee.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 432,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Nocturne": {
+        "id": "Nocturne",
+        "key": "56",
+        "name": "永恒梦魇",
+        "title": "魔腾",
+        "tags": ["Assassin", "Fighter"],
+        "image": {
+            "full": "Nocturne.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 0,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Nunu": {
+        "id": "Nunu",
+        "key": "20",
+        "name": "雪原双子",
+        "title": "努努和威朗普",
+        "tags": ["Tank", "Fighter"],
+        "image": {
+            "full": "Nunu.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 48,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Olaf": {
+        "id": "Olaf",
+        "key": "2",
+        "name": "狂战士",
+        "title": "奥拉夫",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Olaf.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 96,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Orianna": {
+        "id": "Orianna",
+        "key": "61",
+        "name": "发条魔灵",
+        "title": "奥莉安娜",
+        "tags": ["Mage", "Support"],
+        "image": {
+            "full": "Orianna.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 144,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Ornn": {
+        "id": "Ornn",
+        "key": "516",
+        "name": "山隐之焰",
+        "title": "奥恩",
+        "tags": ["Tank", "Fighter"],
+        "image": {
+            "full": "Ornn.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 192,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Pantheon": {
+        "id": "Pantheon",
+        "key": "80",
+        "name": "战争之王",
+        "title": "潘森",
+        "tags": ["Fighter", "Assassin"],
+        "image": {
+            "full": "Pantheon.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 240,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Poppy": {
+        "id": "Poppy",
+        "key": "78",
+        "name": "圣锤之毅",
+        "title": "波比",
+        "tags": ["Tank", "Fighter"],
+        "image": {
+            "full": "Poppy.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 288,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Pyke": {
+        "id": "Pyke",
+        "key": "555",
+        "name": "血港鬼影",
+        "title": "派克",
+        "tags": ["Support", "Assassin"],
+        "image": {
+            "full": "Pyke.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 336,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Quinn": {
+        "id": "Quinn",
+        "key": "133",
+        "name": "德玛西亚之翼",
+        "title": "奎因",
+        "tags": ["Marksman", "Assassin"],
+        "image": {
+            "full": "Quinn.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 384,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Rakan": {
+        "id": "Rakan",
+        "key": "497",
+        "name": "幻翎",
+        "title": "洛",
+        "tags": ["Support"],
+        "image": {
+            "full": "Rakan.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 432,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Rammus": {
+        "id": "Rammus",
+        "key": "33",
+        "name": "披甲龙龟",
+        "title": "拉莫斯",
+        "tags": ["Tank", "Fighter"],
+        "image": {
+            "full": "Rammus.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "RekSai": {
+        "id": "RekSai",
+        "key": "421",
+        "name": "虚空遁地兽",
+        "title": "雷克塞",
+        "tags": ["Fighter"],
+        "image": {
+            "full": "RekSai.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 48,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Renekton": {
+        "id": "Renekton",
+        "key": "58",
+        "name": "荒漠屠夫",
+        "title": "雷克顿",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Renekton.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 96,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Rengar": {
+        "id": "Rengar",
+        "key": "107",
+        "name": "傲之追猎者",
+        "title": "雷恩加尔",
+        "tags": ["Assassin", "Fighter"],
+        "image": {
+            "full": "Rengar.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 144,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Riven": {
+        "id": "Riven",
+        "key": "92",
+        "name": "放逐之刃",
+        "title": "锐雯",
+        "tags": ["Fighter", "Assassin"],
+        "image": {
+            "full": "Riven.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 192,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Rumble": {
+        "id": "Rumble",
+        "key": "68",
+        "name": "机械公敌",
+        "title": "兰博",
+        "tags": ["Fighter", "Mage"],
+        "image": {
+            "full": "Rumble.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 240,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Ryze": {
+        "id": "Ryze",
+        "key": "13",
+        "name": "符文法师",
+        "title": "瑞兹",
+        "tags": ["Mage", "Fighter"],
+        "image": {
+            "full": "Ryze.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 288,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Sejuani": {
+        "id": "Sejuani",
+        "key": "113",
+        "name": "北地之怒",
+        "title": "瑟庄妮",
+        "tags": ["Tank", "Fighter"],
+        "image": {
+            "full": "Sejuani.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 336,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Shaco": {
+        "id": "Shaco",
+        "key": "35",
+        "name": "恶魔小丑",
+        "title": "萨科",
+        "tags": ["Assassin"],
+        "image": {
+            "full": "Shaco.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 384,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Shen": {
+        "id": "Shen",
+        "key": "98",
+        "name": "暮光之眼",
+        "title": "慎",
+        "tags": ["Tank"],
+        "image": {
+            "full": "Shen.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 432,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Shyvana": {
+        "id": "Shyvana",
+        "key": "102",
+        "name": "龙血武姬",
+        "title": "希瓦娜",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Shyvana.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 0,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Singed": {
+        "id": "Singed",
+        "key": "27",
+        "name": "炼金术士",
+        "title": "辛吉德",
+        "tags": ["Tank", "Fighter"],
+        "image": {
+            "full": "Singed.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 48,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Sion": {
+        "id": "Sion",
+        "key": "14",
+        "name": "亡灵战神",
+        "title": "赛恩",
+        "tags": ["Tank", "Fighter"],
+        "image": {
+            "full": "Sion.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 96,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Sivir": {
+        "id": "Sivir",
+        "key": "15",
+        "name": "战争女神",
+        "title": "希维尔",
+        "tags": ["Marksman"],
+        "image": {
+            "full": "Sivir.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 144,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Skarner": {
+        "id": "Skarner",
+        "key": "72",
+        "name": "水晶先锋",
+        "title": "斯卡纳",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Skarner.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 192,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Sona": {
+        "id": "Sona",
+        "key": "37",
+        "name": "琴瑟仙女",
+        "title": "娑娜",
+        "tags": ["Support", "Mage"],
+        "image": {
+            "full": "Sona.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 240,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Soraka": {
+        "id": "Soraka",
+        "key": "16",
+        "name": "众星之子",
+        "title": "索拉卡",
+        "tags": ["Support", "Mage"],
+        "image": {
+            "full": "Soraka.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 288,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Swain": {
+        "id": "Swain",
+        "key": "50",
+        "name": "诺克萨斯统领",
+        "title": "斯维因",
+        "tags": ["Mage", "Fighter"],
+        "image": {
+            "full": "Swain.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 336,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Sylas": {
+        "id": "Sylas",
+        "key": "517",
+        "name": "解脱者",
+        "title": "塞拉斯",
+        "tags": ["Mage", "Assassin"],
+        "image": {
+            "full": "Sylas.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 384,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Syndra": {
+        "id": "Syndra",
+        "key": "134",
+        "name": "暗黑元首",
+        "title": "辛德拉",
+        "tags": ["Mage", "Support"],
+        "image": {
+            "full": "Syndra.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 432,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "TahmKench": {
+        "id": "TahmKench",
+        "key": "223",
+        "name": "河流之王",
+        "title": "塔姆",
+        "tags": ["Support", "Tank"],
+        "image": {
+            "full": "TahmKench.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 0,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Taliyah": {
+        "id": "Taliyah",
+        "key": "163",
+        "name": "岩雀",
+        "title": "塔莉垭",
+        "tags": ["Mage", "Support"],
+        "image": {
+            "full": "Taliyah.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 48,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Talon": {
+        "id": "Talon",
+        "key": "91",
+        "name": "刀锋之影",
+        "title": "泰隆",
+        "tags": ["Assassin"],
+        "image": {
+            "full": "Talon.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 96,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Taric": {
+        "id": "Taric",
+        "key": "44",
+        "name": "瓦洛兰之盾",
+        "title": "塔里克",
+        "tags": ["Support", "Fighter"],
+        "image": {
+            "full": "Taric.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 144,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Teemo": {
+        "id": "Teemo",
+        "key": "17",
+        "name": "迅捷斥候",
+        "title": "提莫",
+        "tags": ["Marksman", "Assassin"],
+        "image": {
+            "full": "Teemo.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 192,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Thresh": {
+        "id": "Thresh",
+        "key": "412",
+        "name": "魂锁典狱长",
+        "title": "锤石",
+        "tags": ["Support", "Fighter"],
+        "image": {
+            "full": "Thresh.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 240,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Tristana": {
+        "id": "Tristana",
+        "key": "18",
+        "name": "麦林炮手",
+        "title": "崔丝塔娜",
+        "tags": ["Marksman", "Assassin"],
+        "image": {
+            "full": "Tristana.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 288,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Trundle": {
+        "id": "Trundle",
+        "key": "48",
+        "name": "巨魔之王",
+        "title": "特朗德尔",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Trundle.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 336,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Tryndamere": {
+        "id": "Tryndamere",
+        "key": "23",
+        "name": "蛮族之王",
+        "title": "泰达米尔",
+        "tags": ["Fighter", "Assassin"],
+        "image": {
+            "full": "Tryndamere.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 384,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "TwistedFate": {
+        "id": "TwistedFate",
+        "key": "4",
+        "name": "卡牌大师",
+        "title": "崔斯特",
+        "tags": ["Mage"],
+        "image": {
+            "full": "TwistedFate.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 432,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Twitch": {
+        "id": "Twitch",
+        "key": "29",
+        "name": "瘟疫之源",
+        "title": "图奇",
+        "tags": ["Marksman", "Assassin"],
+        "image": {
+            "full": "Twitch.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Udyr": {
+        "id": "Udyr",
+        "key": "77",
+        "name": "兽灵行者",
+        "title": "乌迪尔",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Udyr.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 48,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Urgot": {
+        "id": "Urgot",
+        "key": "6",
+        "name": "无畏战车",
+        "title": "厄加特",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Urgot.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 96,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Varus": {
+        "id": "Varus",
+        "key": "110",
+        "name": "惩戒之箭",
+        "title": "韦鲁斯",
+        "tags": ["Marksman", "Mage"],
+        "image": {
+            "full": "Varus.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 144,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Vayne": {
+        "id": "Vayne",
+        "key": "67",
+        "name": "暗夜猎手",
+        "title": "薇恩",
+        "tags": ["Marksman", "Assassin"],
+        "image": {
+            "full": "Vayne.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 192,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Veigar": {
+        "id": "Veigar",
+        "key": "45",
+        "name": "邪恶小法师",
+        "title": "维迦",
+        "tags": ["Mage"],
+        "image": {
+            "full": "Veigar.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 240,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Velkoz": {
+        "id": "Velkoz",
+        "key": "161",
+        "name": "虚空之眼",
+        "title": "维克兹",
+        "tags": ["Mage"],
+        "image": {
+            "full": "Velkoz.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 288,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Vi": {
+        "id": "Vi",
+        "key": "254",
+        "name": "皮城执法官",
+        "title": "蔚",
+        "tags": ["Fighter", "Assassin"],
+        "image": {
+            "full": "Vi.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 336,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Viktor": {
+        "id": "Viktor",
+        "key": "112",
+        "name": "机械先驱",
+        "title": "维克托",
+        "tags": ["Mage"],
+        "image": {
+            "full": "Viktor.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 384,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Vladimir": {
+        "id": "Vladimir",
+        "key": "8",
+        "name": "猩红收割者",
+        "title": "弗拉基米尔",
+        "tags": ["Mage"],
+        "image": {
+            "full": "Vladimir.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 432,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Volibear": {
+        "id": "Volibear",
+        "key": "106",
+        "name": "雷霆咆哮",
+        "title": "沃利贝尔",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Volibear.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 0,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Warwick": {
+        "id": "Warwick",
+        "key": "19",
+        "name": "祖安怒兽",
+        "title": "沃里克",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Warwick.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 48,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Xayah": {
+        "id": "Xayah",
+        "key": "498",
+        "name": "逆羽",
+        "title": "霞",
+        "tags": ["Marksman"],
+        "image": {
+            "full": "Xayah.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 96,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Xerath": {
+        "id": "Xerath",
+        "key": "101",
+        "name": "远古巫灵",
+        "title": "泽拉斯",
+        "tags": ["Mage"],
+        "image": {
+            "full": "Xerath.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 144,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "XinZhao": {
+        "id": "XinZhao",
+        "key": "5",
+        "name": "德邦总管",
+        "title": "赵信",
+        "tags": ["Fighter", "Assassin"],
+        "image": {
+            "full": "XinZhao.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 192,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Yasuo": {
+        "id": "Yasuo",
+        "key": "157",
+        "name": "疾风剑豪",
+        "title": "亚索",
+        "tags": ["Fighter", "Assassin"],
+        "image": {
+            "full": "Yasuo.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 240,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Yorick": {
+        "id": "Yorick",
+        "key": "83",
+        "name": "牧魂人",
+        "title": "约里克",
+        "tags": ["Fighter", "Tank"],
+        "image": {
+            "full": "Yorick.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 288,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Yuumi": {
+        "id": "Yuumi",
+        "key": "350",
+        "name": "魔法猫咪",
+        "title": "悠米",
+        "tags": ["Support", "Mage"],
+        "image": {
+            "full": "Yuumi.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 336,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Zac": {
+        "id": "Zac",
+        "key": "154",
+        "name": "生化魔人",
+        "title": "扎克",
+        "tags": ["Tank", "Fighter"],
+        "image": {
+            "full": "Zac.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 384,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Zed": {
+        "id": "Zed",
+        "key": "238",
+        "name": "影流之主",
+        "title": "劫",
+        "tags": ["Assassin"],
+        "image": {
+            "full": "Zed.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 432,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Ziggs": {
+        "id": "Ziggs",
+        "key": "115",
+        "name": "爆破鬼才",
+        "title": "吉格斯",
+        "tags": ["Mage"],
+        "image": {
+            "full": "Ziggs.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 0,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Zilean": {
+        "id": "Zilean",
+        "key": "26",
+        "name": "时光守护者",
+        "title": "基兰",
+        "tags": ["Support", "Mage"],
+        "image": {
+            "full": "Zilean.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 48,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Zoe": {
+        "id": "Zoe",
+        "key": "142",
+        "name": "暮光星灵",
+        "title": "佐伊",
+        "tags": ["Mage", "Support"],
+        "image": {
+            "full": "Zoe.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 96,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    },
+    "Zyra": {
+        "id": "Zyra",
+        "key": "143",
+        "name": "荆棘之兴",
+        "title": "婕拉",
+        "tags": ["Mage", "Support"],
+        "image": {
+            "full": "Zyra.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 144,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        }
+    }
+}

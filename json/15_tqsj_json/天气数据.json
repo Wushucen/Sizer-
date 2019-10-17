@@ -1,0 +1,34 @@
+{
+    "北京": [
+        { "date": "6月20日", "weather": "阴", "maxtemp": 39 },
+        { "date": "6月21日", "weather": "晴", "maxtemp": 31 },
+        { "date": "6月22日", "weather": "小雨", "maxtemp": 36 },
+        { "date": "6月23日", "weather": "晴", "maxtemp": 40 },
+        { "date": "6月24日", "weather": "晴", "maxtemp": 31 },
+        { "date": "6月25日", "weather": "大雨", "maxtemp": 31 },
+        { "date": "6月26日", "weather": "多云", "maxtemp": 38 },
+        { "date": "6月27日", "weather": "晴", "maxtemp": 40 },
+        { "date": "6月28日", "weather": "晴", "maxtemp": 38 },
+        { "date": "6月29日", "weather": "阴", "maxtemp": 34 },
+        { "date": "6月30日", "weather": "多云", "maxtemp": 39 },
+        { "date": "7月1日", "weather": "小雨", "maxtemp": 37 },
+        { "date": "7月2日", "weather": "多云", "maxtemp": 33 },
+        { "date": "7月3日", "weather": "大雨", "maxtemp": 31 }
+    ],
+    "广州": [
+        { "date": "6月20日", "weather": "晴", "maxtemp": 34 },
+        { "date": "6月21日", "weather": "阴", "maxtemp": 36 },
+        { "date": "6月22日", "weather": "阴", "maxtemp": 33 },
+        { "date": "6月23日", "weather": "阴", "maxtemp": 34 },
+        { "date": "6月24日", "weather": "小雨", "maxtemp": 39 },
+        { "date": "6月25日", "weather": "多云", "maxtemp": 31 },
+        { "date": "6月26日", "weather": "阴", "maxtemp": 40 },
+        { "date": "6月27日", "weather": "多云", "maxtemp": 34 },
+        { "date": "6月31日", "weather": "小雨", "maxtemp": 32 },
+        { "date": "6月29日", "weather": "大雨", "maxtemp": 33 },
+        { "date": "6月30日", "weather": "小雨", "maxtemp": 38 },
+        { "date": "7月1日", "weather": "大雨", "maxtemp": 33 },
+        { "date": "7月2日", "weather": "多云", "maxtemp": 32 },
+        { "date": "7月3日", "weather": "大雨", "maxtemp": 40 }
+    ]
+}
